@@ -1,7 +1,7 @@
 # ONETIME SECRET - v0.11.0 (2023-04-17)
 
 *Keep passwords and other sensitive information out of your inboxes and chat logs.*
-
+ 
 ## What is a Onetime Secret? ##
 
 A one-time secret is a link that can be viewed only once. A single-use URL.
